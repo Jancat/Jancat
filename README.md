@@ -1,6 +1,8 @@
 # 君临 / Junlin / JunlinSky / Jancat
 
-💫 Hi, here is **君临 (Junlin)**, love the ACGN culture and enjoy coding the world 🌍.  Fight for uninhibited freedom.
+💫 Hi, here is **君临 (Junlin)**, love the ACGN culture and enjoy coding the world 🌍 (to be ACGeek).  Fight for uninhibited freedom.
+
+Keep learning and climb to the top of technology.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jancat&show_icons=true&title_color=00b8ff&icon_color=00ff9f&text_color=9f9f9f&bg_color=151515" alt="Jancat's github stats"/>
 
