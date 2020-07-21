@@ -1,6 +1,8 @@
 # 君临 / Junlin / JunlinSky / Jancat
 
-💫 Hi, here is **君临 (Junlin)**, love the ACGN culture and enjoy coding the world 🌍 (to be ACGeek).  
+💫 Hi, here is **君临 (Junlin)**, 💙 the ACGN culture and enjoy coding the world  (to be ACGeek).  
+
+<br>
 
 **My code of conduct:**
 
