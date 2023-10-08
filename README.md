@@ -1,4 +1,4 @@
-# 君临 / Junlin / JunlinSky / Jancat
+# 君临 / FreeSky
 
 💫 Hi, here is **君临 (Junlin)**, 💙 the ACGN culture and enjoy coding the world  (to be ACGeek).  
 
